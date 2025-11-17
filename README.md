@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=meliketanrikulu&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=meliketanrikulu&theme=radical)
 
 

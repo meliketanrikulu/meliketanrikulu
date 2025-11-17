@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=meliketanrikulu&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=meliketanrikulu&theme=radical&hide_border=true)
+
 
